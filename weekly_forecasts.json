@@ -4,7 +4,7 @@
         "longitude": -119.7785,
         "forecast": [
             {
-                "startTime": "2025-12-12T14:00:00-08:00",
+                "startTime": "2025-12-12T17:00:00-08:00",
                 "Time of Day": "This Afternoon",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 74. West northwest wind around 5 mph.",
@@ -145,10 +145,10 @@
             }
         ],
         "recommended_gear": [
-            "\ud83e\udd7e Waterproof Hiking Boots",
-            "\ud83c\udfde\ufe0f 40\u00b0F+ Summer Sleeping Bag",
             "\ud83c\udf92 Pack Rain Cover",
-            "\u2614 Waterproof Rainfly"
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\u2614 Waterproof Rainfly",
+            "\ud83c\udfde\ufe0f 40\u00b0F+ Summer Sleeping Bag"
         ],
         "warnings": []
     },
@@ -157,13 +157,13 @@
         "longitude": -116.933,
         "forecast": [
             {
-                "startTime": "2025-12-12T15:00:00-08:00",
+                "startTime": "2025-12-12T17:00:00-08:00",
                 "Time of Day": "This Afternoon",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 81, with temperatures falling to around 72 in the afternoon. East northeast wind around 3 mph.",
+                "detailedForecast": "Sunny. High near 81, with temperatures falling to around 72 in the afternoon. Northeast wind around 2 mph.",
                 "Temp": 81,
-                "Wind": "3",
-                "windDirection": "ENE",
+                "Wind": "2",
+                "windDirection": "NE",
                 "Rain": 0
             },
             {
@@ -298,10 +298,10 @@
             }
         ],
         "recommended_gear": [
-            "\ud83e\udd7e Waterproof Hiking Boots",
-            "\ud83c\udfde\ufe0f 40\u00b0F+ Summer Sleeping Bag",
             "\ud83c\udf92 Pack Rain Cover",
-            "\u2614 Waterproof Rainfly"
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\u2614 Waterproof Rainfly",
+            "\ud83c\udfde\ufe0f 40\u00b0F+ Summer Sleeping Bag"
         ],
         "warnings": []
     },
@@ -310,13 +310,13 @@
         "longitude": -115.901,
         "forecast": [
             {
-                "startTime": "2025-12-12T15:00:00-08:00",
+                "startTime": "2025-12-12T17:00:00-08:00",
                 "Time of Day": "This Afternoon",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 74, with temperatures falling to around 67 in the afternoon. Northeast wind around 5 mph.",
+                "detailedForecast": "Mostly sunny. High near 74, with temperatures falling to around 67 in the afternoon. East northeast wind around 5 mph.",
                 "Temp": 74,
                 "Wind": "5",
-                "windDirection": "NE",
+                "windDirection": "ENE",
                 "Rain": 0
             },
             {
@@ -460,7 +460,7 @@
         "longitude": -121.4208,
         "forecast": [
             {
-                "startTime": "2025-12-12T15:00:00-08:00",
+                "startTime": "2025-12-12T17:00:00-08:00",
                 "Time of Day": "This Afternoon",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 55, with temperatures falling to around 47 in the afternoon. North northeast wind around 2 mph.",
@@ -601,12 +601,12 @@
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
             "\ud83e\udd7e Waterproof Hiking Boots",
-            "\u2614 Waterproof Rainfly",
+            "\ud83e\udde4 Insulated Gloves & Beanie",
             "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
+            "\ud83c\udf92 Pack Rain Cover",
             "\ud83d\udd25 Sleeping Pad with R-value > 4",
-            "\ud83e\udde4 Insulated Gloves & Beanie"
+            "\u2614 Waterproof Rainfly"
         ],
         "warnings": [
             "Freezing conditions expected! Bring extra fuel.",
@@ -618,13 +618,13 @@
         "longitude": -121.182,
         "forecast": [
             {
-                "startTime": "2025-12-12T15:00:00-08:00",
+                "startTime": "2025-12-12T17:00:00-08:00",
                 "Time of Day": "This Afternoon",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 76, with temperatures falling to around 66 in the afternoon. Southwest wind around 6 mph.",
+                "detailedForecast": "Sunny. High near 76, with temperatures falling to around 66 in the afternoon. North northwest wind around 6 mph.",
                 "Temp": 76,
                 "Wind": "6",
-                "windDirection": "SW",
+                "windDirection": "NNW",
                 "Rain": 0
             },
             {
@@ -759,11 +759,11 @@
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
-            "\ud83e\udd7e Waterproof Hiking Boots",
-            "\u2614 Waterproof Rainfly",
             "\ud83e\udde5 Puffy Down Jacket",
-            "\ud83d\udecc 20\u00b0F Rated Sleeping Bag"
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\ud83c\udf92 Pack Rain Cover",
+            "\ud83d\udecc 20\u00b0F Rated Sleeping Bag",
+            "\u2614 Waterproof Rainfly"
         ],
         "warnings": []
     },
@@ -772,13 +772,13 @@
         "longitude": -124.0046,
         "forecast": [
             {
-                "startTime": "2025-12-12T15:00:00-08:00",
+                "startTime": "2025-12-12T17:00:00-08:00",
                 "Time of Day": "This Afternoon",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog after 4pm. Mostly sunny. High near 62, with temperatures falling to around 55 in the afternoon. North northeast wind around 3 mph.",
+                "detailedForecast": "Patchy fog. Mostly sunny. High near 62, with temperatures falling to around 55 in the afternoon. East northeast wind around 2 mph.",
                 "Temp": 62,
-                "Wind": "3",
-                "windDirection": "NNE",
+                "Wind": "2",
+                "windDirection": "ENE",
                 "Rain": 0
             },
             {
@@ -913,11 +913,11 @@
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
-            "\ud83e\udd7e Waterproof Hiking Boots",
-            "\u2614 Waterproof Rainfly",
             "\ud83e\udde5 Puffy Down Jacket",
-            "\ud83d\udecc 20\u00b0F Rated Sleeping Bag"
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\ud83c\udf92 Pack Rain Cover",
+            "\ud83d\udecc 20\u00b0F Rated Sleeping Bag",
+            "\u2614 Waterproof Rainfly"
         ],
         "warnings": [
             "Heavy rain forecast. Ensure tent footprint is tucked under tent."
@@ -928,13 +928,13 @@
         "longitude": -118.5658,
         "forecast": [
             {
-                "startTime": "2025-12-12T15:00:00-08:00",
+                "startTime": "2025-12-12T17:00:00-08:00",
                 "Time of Day": "This Afternoon",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 47, with temperatures falling to around 43 in the afternoon. North northwest wind around 5 mph.",
+                "detailedForecast": "Sunny. High near 47, with temperatures falling to around 43 in the afternoon. North wind around 5 mph.",
                 "Temp": 47,
                 "Wind": "5",
-                "windDirection": "NNW",
+                "windDirection": "N",
                 "Rain": 0
             },
             {
@@ -1069,11 +1069,11 @@
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
-            "\ud83e\udd7e Waterproof Hiking Boots",
-            "\u2614 Waterproof Rainfly",
             "\ud83e\udde5 Puffy Down Jacket",
-            "\ud83d\udecc 20\u00b0F Rated Sleeping Bag"
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\ud83c\udf92 Pack Rain Cover",
+            "\ud83d\udecc 20\u00b0F Rated Sleeping Bag",
+            "\u2614 Waterproof Rainfly"
         ],
         "warnings": []
     },
@@ -1082,13 +1082,13 @@
         "longitude": -118.5551,
         "forecast": [
             {
-                "startTime": "2025-12-12T15:00:00-08:00",
+                "startTime": "2025-12-12T17:00:00-08:00",
                 "Time of Day": "This Afternoon",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 48, with temperatures falling to around 41 in the afternoon. West northwest wind 0 to 5 mph.",
+                "detailedForecast": "Sunny. High near 48, with temperatures falling to around 41 in the afternoon. Northwest wind around 0 mph.",
                 "Temp": 48,
-                "Wind": "0 to 5",
-                "windDirection": "WNW",
+                "Wind": "0",
+                "windDirection": "",
                 "Rain": 0
             },
             {
@@ -1223,12 +1223,12 @@
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
             "\ud83e\udd7e Waterproof Hiking Boots",
-            "\u2614 Waterproof Rainfly",
+            "\ud83e\udde4 Insulated Gloves & Beanie",
             "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
+            "\ud83c\udf92 Pack Rain Cover",
             "\ud83d\udd25 Sleeping Pad with R-value > 4",
-            "\ud83e\udde4 Insulated Gloves & Beanie"
+            "\u2614 Waterproof Rainfly"
         ],
         "warnings": [
             "Freezing conditions expected! Bring extra fuel."
@@ -1239,10 +1239,10 @@
         "longitude": -119.5383,
         "forecast": [
             {
-                "startTime": "2025-12-12T15:00:00-08:00",
+                "startTime": "2025-12-12T17:00:00-08:00",
                 "Time of Day": "This Afternoon",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 49 in the afternoon. South wind around 0 mph.",
+                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 49 in the afternoon. East southeast wind around 0 mph.",
                 "Temp": 60,
                 "Wind": "0",
                 "windDirection": "",
@@ -1380,12 +1380,12 @@
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
             "\ud83e\udd7e Waterproof Hiking Boots",
-            "\u2614 Waterproof Rainfly",
+            "\ud83e\udde4 Insulated Gloves & Beanie",
             "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
+            "\ud83c\udf92 Pack Rain Cover",
             "\ud83d\udd25 Sleeping Pad with R-value > 4",
-            "\ud83e\udde4 Insulated Gloves & Beanie"
+            "\u2614 Waterproof Rainfly"
         ],
         "warnings": [
             "Freezing conditions expected! Bring extra fuel."
